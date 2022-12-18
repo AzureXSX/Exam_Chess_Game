@@ -115,7 +115,7 @@ namespace Exam_Chess_Game
         {
             m_whiteTime = m_whiteTime.Add(new TimeSpan(0, 0, 0, 0, tmrWhite.Interval));
             lblWhiteTime.Text = string.Format("{1:d2}:{2:d2}.{3:d1}", m_whiteTime.Hours, m_whiteTime.Minutes, m_whiteTime.Seconds, m_whiteTime.Milliseconds / 100);
-            if(m_whiteTime.TotalMinutes >= 5)
+            if(m_whiteTime.TotalMinutes >= 10)
             {
                 tmrWhite.Stop();
                 tmrBlack.Stop();
@@ -133,7 +133,7 @@ namespace Exam_Chess_Game
         {
             m_blackTime = m_blackTime.Add(new TimeSpan(0, 0, 0, 0, tmrBlack.Interval));
             lblBlackTime.Text = string.Format("{1:d2}:{2:d2}.{3:d1}", m_blackTime.Hours, m_blackTime.Minutes, m_blackTime.Seconds, m_blackTime.Milliseconds / 100);
-            if (m_blackTime.TotalMinutes >= 5)
+            if (m_blackTime.TotalMinutes >= 10)
             {
                 tmrBlack.Stop();
                 tmrWhite.Stop();
