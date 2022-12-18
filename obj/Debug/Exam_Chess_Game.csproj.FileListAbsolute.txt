@@ -1,0 +1,11 @@
+C:\Users\Zero\source\repos\Exam_Chess_Game\obj\Debug\Exam_Chess_Game.csproj.AssemblyReference.cache
+C:\Users\Zero\source\repos\Exam_Chess_Game\obj\Debug\Exam_Chess_Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zero\source\repos\Exam_Chess_Game\obj\Debug\Exam_Chess_Game.MainForm.resources
+C:\Users\Zero\source\repos\Exam_Chess_Game\obj\Debug\Exam_Chess_Game.Properties.Resources.resources
+C:\Users\Zero\source\repos\Exam_Chess_Game\obj\Debug\Exam_Chess_Game.csproj.GenerateResource.cache
+C:\Users\Zero\source\repos\Exam_Chess_Game\obj\Debug\Exam_Chess_Game.csproj.CoreCompileInputs.cache
+C:\Users\Zero\source\repos\Exam_Chess_Game\bin\Debug\Exam_Chess_Game.exe.config
+C:\Users\Zero\source\repos\Exam_Chess_Game\bin\Debug\Exam_Chess_Game.exe
+C:\Users\Zero\source\repos\Exam_Chess_Game\bin\Debug\Exam_Chess_Game.pdb
+C:\Users\Zero\source\repos\Exam_Chess_Game\obj\Debug\Exam_Chess_Game.exe
+C:\Users\Zero\source\repos\Exam_Chess_Game\obj\Debug\Exam_Chess_Game.pdb
